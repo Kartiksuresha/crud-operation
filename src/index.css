@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: cursive;
+}
+.padding{
+  font-size: xx-large;
+}
+.not-found{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    color: wheat;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
